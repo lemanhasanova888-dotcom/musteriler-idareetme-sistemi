@@ -1,0 +1,6 @@
+{
+  "name": "Müştərilər Səhifəsi və İdarəetmə Sistemi",
+  "description": "Müştərilərin siyahısı, borc və kredit məlumatları, ödəniş tarixçəsi, qeydlər, hüquqi işlər və sənədlərin idarə edilməsi sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
